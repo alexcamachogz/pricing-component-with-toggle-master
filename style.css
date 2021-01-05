@@ -27,7 +27,6 @@ body {
 
 .container {
   width: 90vw;
-  height: 90vh;
   margin: 0 auto;
 }
 
@@ -206,6 +205,9 @@ article:nth-of-type(2) .card-button {
   body {
     background: url('images/bg-top.svg') no-repeat top right,
       url('images/bg-bottom.svg') no-repeat bottom left;
+  }
+  .container {
+    height: 90vh;
   }
   .card-container {
     flex-direction: row;

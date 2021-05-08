@@ -11,7 +11,7 @@ Only you need download the project and open index.html. That's it.
 
 
 ## 🎨 Preview
-You can see the live result here → [Pricing Component](https://pricing-component.alexcamachogz.com/)
+You can see the live result here → [Pricing Component](https://pricing-toggle-component.netlify.app/)
 
 ## 👩🏻‍💻 Technologies
 1. HTML
